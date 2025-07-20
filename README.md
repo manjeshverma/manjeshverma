@@ -10,14 +10,14 @@
 -    Optimize **PostgreSQL** databases & design efficient architectures  
 -    Fuel my code with **chai breaks** *(critical dependency!)*  
 
-### 🚀 Current Projects
+### Current Projects
 -   Working on an **AI content generator** using OpenAI
 -   Learning **Rust** for high-performance systems  
 
 ### ☕ Chai-Fueled Philosophy  
 > *"404: Sleep not found. Chai overflow exception.”*  
 
-### 📬 Let’s Connect  
+### Let’s Connect  
 - 💬 Ask me about **Python, AI integrations, or chai recipes!**  
 - ✉️ Email: [manjeshverma124@gmail.com](mailto:manjeshverma124@gmail.com)  
 - 🔗 LinkedIn: [Manjesh Verma](https://www.linkedin.com/in/manjesh-verma/)  
